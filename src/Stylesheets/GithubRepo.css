@@ -1,0 +1,16 @@
+.github-repo {
+    background-color: #2d333b;
+    margin-top: 15px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid #545d68;
+}
+.github-repo a {
+    color:#6cb6ff;
+    text-decoration: none
+}
+
